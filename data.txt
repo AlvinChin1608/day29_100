@@ -1,0 +1,6 @@
+test1 | alvinwen3@gmail.com | 123
+test2 | alvinwen3@gmail.com | 234
+test3 | alvinwen3@gmail.com | 345
+Nokia | alvinwen3@gmail.com | 12345
+HelloFresh | alvinwen3@gmail.com | 12345
+iP0%%i%Mz7WG# | alvinwen3@gmail.com | iP0%%i%Mz7WG#
