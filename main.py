@@ -96,7 +96,7 @@ website_entry.focus() # Greet the user with the cursor in this input dialog
 
 email_entry = Entry(width=35)
 email_entry.grid(column=1, row=2, columnspan=2)
-email_entry.insert(0, "alvinwen3@gmail.com")
+email_entry.insert(0, "alvin@gmail.com")
 
 password_entry = Entry(width=21)
 password_entry.grid(column=1, row=3, columnspan= 1)
