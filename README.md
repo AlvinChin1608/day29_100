@@ -16,17 +16,24 @@ __3. User Interface (UI) Setup__
 The password generator creates a random password containing a mix of lowercase letters, uppercase letters, numbers, and symbols. This ensures a strong and secure password.
 
 **Key Points:**
+
 __- Character Sets:__ The password is generated using four different sets of characters: lowercase letters, uppercase letters, numbers, and symbols.
+
 __- Guaranteeing Character Diversity:__ The logic ensures that the password contains at least one character from each set.
+
 __- Random Selection:__ The remaining characters are randomly selected from the combined character pool to reach the desired password length.
+
 __- Clipboard Copying:__ The generated password is automatically copied to the clipboard using the __pyperclip__ library, making it convenient to paste the password wherever needed.
 
 **Password Saving**
 The application allows users to save their generated passwords along with the associated website and email/username. The data is saved to a text file.
 
 __Key Points:__
+
 __Data Validation:__ The code checks for empty fields and validates the email format before saving the data.
+
 __Confirmation:__ The user is prompted to confirm the details before saving.
+
 __Data Storage:__ The data is stored in a text file __(data.txt)__ in the format: __website | email | password__.
 
 **User Interface (UI) Setup**
