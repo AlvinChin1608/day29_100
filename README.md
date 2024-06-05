@@ -8,14 +8,11 @@ Additionally, I have chosen to include the beginner, intermediate and advanced i
 This project is a simple password manager application built using Python and the Tkinter library. It allows users to generate strong passwords, save them securely, and retrieve them when needed. Below is a detailed explanation of the features and functionalities implemented in this project.
 
 ## Features
-__1. Password Generation__
-
-__2. Password Saving__
-
-__3. User Interface (UI) Setup__
+1. Password Generation
+2. Password Saving
+3. User Interface (UI) Setup
 
 ## Password Generation
-
 The password generator creates a random password containing a mix of lowercase letters, uppercase letters, numbers, and symbols. This ensures a strong and secure password.
 
 ## Key Points:
@@ -39,7 +36,7 @@ The application allows users to save their generated passwords along with the as
 
    __- Data Storage:__ The data is stored in a text file __(data.txt)__ in the format: __website | email | password__.
 
-**User Interface (UI) Setup**
+## User Interface (UI) Setup
 The UI is created using Tkinter, which provides a simple way to build graphical user interfaces in Python.
 
 ## Key Points:
